@@ -1,0 +1,16 @@
+com\ums\ams\repository\ZkTecoRepository.class
+com\ums\ams\repository\SchedulerLogRepository.class
+com\ums\ams\model\SchedulerLog.class
+com\ums\ams\model\ZkTecoData.class
+com\ums\ams\model\Attendance.class
+com\ums\ams\repository\AttendanceRepository$1.class
+com\ums\ams\scheduler\AmsScheduler.class
+com\ums\ams\service\ZkTecoService.class
+com\ums\ams\AttendanceManagementApplication.class
+com\ums\ams\service\SchedulerLogService.class
+com\ums\ams\repository\AttendanceRepository$AttendanceRowMapper.class
+com\ums\ams\repository\AttendanceRepository.class
+com\ums\ams\repository\SchedulerLogRepository$SchedulerLogRowMapper.class
+com\ums\ams\utils\Utils.class
+com\ums\ams\rest\AttendanceRest.class
+com\ums\ams\service\AttendanceService.class

@@ -1,0 +1,13 @@
+F:\properties\attendance-management\src\main\java\com\ums\ams\model\ZkTecoData.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\rest\AttendanceRest.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\service\AttendanceService.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\utils\Utils.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\service\SchedulerLogService.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\scheduler\AmsScheduler.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\model\SchedulerLog.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\repository\ZkTecoRepository.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\repository\SchedulerLogRepository.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\repository\AttendanceRepository.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\service\ZkTecoService.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\AttendanceManagementApplication.java
+F:\properties\attendance-management\src\main\java\com\ums\ams\model\Attendance.java
